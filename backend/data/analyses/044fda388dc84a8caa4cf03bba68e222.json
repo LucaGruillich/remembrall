@@ -1,0 +1,27 @@
+{
+  "summary": "Neue Projektidee: App, die Sprachmemos automatisch in Obsidian speichert; Backend soll mit FastAPI entstehen. Außerdem steht nächsten Montag ein Zahnarzttermin an.",
+  "work_items": [],
+  "project_items": [
+    {
+      "title": "App, die Sprachmemos automatisch in Obsidian speichert",
+      "project": "App, die Sprachmemos automatisch in Obsidian speichert",
+      "type": "new_project",
+      "summary": "Neues Projekt: App speichert Sprachmemos automatisch in Obsidian. Geplantes Backend mit FastAPI.",
+      "tasks": [
+        "Backend mit FastAPI bauen"
+      ]
+    }
+  ],
+  "personal_items": [],
+  "calendar_events": [
+    {
+      "title": "Zahnarzttermin",
+      "category": "private",
+      "date": "2026-03-16",
+      "start_time": null,
+      "end_time": null,
+      "all_day": true,
+      "notes": null
+    }
+  ]
+}

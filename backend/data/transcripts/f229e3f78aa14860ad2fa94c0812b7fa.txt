@@ -1,0 +1,1 @@
+Ich habe eine Idee für eine App, die Sprachmemo muss automatisch in Obsidian speichert. Das ist ein neues Projekt und ich möchte dafür ein Backend mit FastAPI bauen. Außerdem habe ich nächsten Montag einen Zahnarzttermin.
